@@ -13,4 +13,4 @@ This notifying aspect will be left up to Camel endpoints definition, so that any
 
 Obviously, the aim is quiet close to the nagios-core Community project and  the dilema remains between directly discovering and using Nagios (https://www.nagios.org/projects/nagios-core/) or building a self-made micro framework.
 
-Therefore, as a disclosure: may this repository may also become part of personnal proposals of plugins integrations directly against Nagios monster project.
+Therefore, as a disclosure: this repository may also turn into a set of personnal proposals of plugins integrations directly focused in Nagios monster project.
